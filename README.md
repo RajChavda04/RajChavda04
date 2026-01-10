@@ -32,7 +32,6 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 ## 🚀 Projects
 
 [![QuickCart User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
-
 [![QuickCart Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
 
 [![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital-Signature&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
