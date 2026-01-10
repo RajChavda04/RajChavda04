@@ -2,7 +2,7 @@
 I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Github](https://img.shields.io/github/followers/RajChavda04?label=Follow%20Me&style=social)](https://github.com/RajChavda04)
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Raj%20Chavda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/raj-chavda-339159238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raj%20Chavda-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/raj-chavda-339159238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Mail](https://img.shields.io/badge/Gmail-rajchavda463@gmail.com-red?logo=Gmail&logoColor=red&labelColor=black)](mailto:rajchavda463@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-raajj_54-purple?logo=instagram&logoColor=purple&labelColor=black)](https://www.instagram.com/raajj_54/)
 
