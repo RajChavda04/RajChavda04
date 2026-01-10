@@ -17,7 +17,7 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
 ## 🌟 `Tech Mastery & Projects 🚀`
----
+
 ### 💻 Technology
 
 [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
@@ -27,7 +27,7 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 
---
+
 
 ## 🚀 Projects
 
