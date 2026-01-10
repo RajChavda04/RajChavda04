@@ -23,7 +23,7 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=A9A9A9&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
+[![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=233142&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
 [![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38BDF8&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
 
 
