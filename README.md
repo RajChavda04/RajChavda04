@@ -58,10 +58,10 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 const raajj = {
  
   code: [ Javascript, HTML, CSS, Problem Solving],
-  frontend: [React Vite, tailwindcss],
+  frontend: [React Vite, Tailwindcss],
   backend: [nodejs, express, mongoose],
   databases : [MonogoDB, MySQL],
-  tools: [Git, Github, VSCode, Postman , Cloudinaary],
+  tools: [Git, Github, VSCode, Postman, Cloudinaary],
   latest-technology: [MERN Stack]
 }
 ```
