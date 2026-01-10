@@ -18,49 +18,25 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 
 ## 🌟 `Tech Mastery & Projects 🚀`
 
-<!-- TECHNOLOGY CONTAINER -->
-<div style="
-  border: 1px solid #30363d;
-  border-radius: 14px;
-  padding: 16px;
-  margin-bottom: 24px;
-  background-color: rgba(110,118,129,0.1);
-">
+### 💻 Technology
 
-<h3>💻 Technology</h3>
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
+[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
+[![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
 
-</div>
 
-<!-- PROJECTS CONTAINER -->
-<div style="
-  border: 1px solid #30363d;
-  border-radius: 14px;
-  padding: 16px;
-  background-color: rgba(110,118,129,0.1);
-">
+## 🚀 Projects
 
-<h3>🚀 Projects</h3>
+[![QuickCart User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
 
-<p align="center">
-  <a href="https://github.com/RajChavda04/QuickCart-User-panel">
-    <img src="https://img.shields.io/badge/QuickCart--User-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RajChavda04/QuickCart-admin-panel">
-    <img src="https://img.shields.io/badge/QuickCart--Admin-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/RajChavda04/Digital-Signature">
-    <img src="https://img.shields.io/badge/Digital--Signature-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![QuickCart Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
 
-</div>
-
+[![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital-Signature&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
+[![TextUtils](https://img.shields.io/static/v1?label=&message=TextUtils&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Textutils)
 
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
