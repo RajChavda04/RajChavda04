@@ -23,9 +23,17 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/static/v1?label=&message=Tailwind%20CSS&color=38BDF8&logo=tailwindcss&logoColor=FFFFFF)](https://tailwindcss.com/)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![XAMPP](https://img.shields.io/static/v1?label=&message=XAMPP&color=FB7A24&logo=xampp&logoColor=FFFFFF)](https://www.apachefriends.org/)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
+
+
+[![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=FF6C37&logo=postman&logoColor=FFFFFF)](https://www.postman.com/)
+[![Git](https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=FFFFFF)](https://git-scm.com/)
+[![Cloudinary](https://img.shields.io/static/v1?label=&message=Cloudinary&color=3448C5&logo=cloudinary&logoColor=FFFFFF)](https://cloudinary.com/)
 
 
 
