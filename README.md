@@ -8,10 +8,11 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 
 ## 🌟 `Exploring the World of Code`
 
-🌱 Keep Learning | 💻 Self-Taught Web Developer | 🎵 MELOPHILE. <br />
-<!-- 👯 I'm open to collaborations with fellow content creators and developers. <br /> -->
-🥅 My goal: To be a skilled developer 👨‍💻. <br />
-🔍 Currently exploring Full Stack technology.
+- 🎓 Self-Taught **Web Developer**
+- 🌱 Keep Learning
+- 🎧 MELOPHILE
+- 🤝 Open to collaborations
+
 
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 
