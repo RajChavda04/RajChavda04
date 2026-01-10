@@ -19,18 +19,24 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 
 ### 🌟 Tech Mastery & Projects 🚀
 
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=React&logoColor=FFFFFF)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/)
+## 💻 Technology
+
+[![React](https://img.shields.io/static/v1?label=&message=React&color=61DAFB&logo=react&logoColor=FFFFFF)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=007ACC&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=mongodb&logoColor=FFFFFF)](https://www.mongodb.com/)
 [![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=2496ED&logo=docker&logoColor=FFFFFF)](https://www.docker.com/)
-| [![QuickCart-User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
-[![QuickCart-Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
-[![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital_Signature&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
-[![TextUtils](https://img.shields.io/static/v1?label=&message=TextUtils&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Textutils) |
+
+---
+
+## 🚀 Projects
+
+[![QuickCart User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
+[![QuickCart Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
+[![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital-Signature&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
+[![TextUtils](https://img.shields.io/static/v1?label=&message=TextUtils&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Textutils)
+
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
