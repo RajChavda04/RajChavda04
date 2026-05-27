@@ -39,11 +39,12 @@ I'm 23 years old `Web Developer` From Vadodara.<img src="https://media.giphy.com
 
 ## 🚀 Projects
 
-[![QuickCart User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
-[![QuickCart Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
+[![QuickCart User](https://img.shields.io/static/v1?label=&message=QuickCart-User&color=3448C5&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-User-panel)
+[![QuickCart Admin](https://img.shields.io/static/v1?label=&message=QuickCart-Admin&color=3448C5&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-admin-panel)
+[![QuickCart Backend](https://img.shields.io/static/v1?label=&message=QuickCart-Baxkend&color=3448C5&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/QuickCart-Backend)
 
-[![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital-Signature&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
-[![TextUtils](https://img.shields.io/static/v1?label=&message=TextUtils&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Textutils)
+[![Digital Signature](https://img.shields.io/static/v1?label=&message=Digital-Signature&color=339933&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Digital-Signature)
+[![TextUtils](https://img.shields.io/static/v1?label=&message=TextUtils&color=233142&logo=github&logoColor=FFFFFF)](https://github.com/RajChavda04/Textutils)
 
 
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
